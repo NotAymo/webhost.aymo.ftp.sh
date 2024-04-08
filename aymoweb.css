@@ -1,0 +1,16 @@
+.luvyou {
+    text-align: center;
+}
+.goofby {
+    text-align: center;
+    background: #ffffff56;
+}
+body {
+    background: url(gradient.png);
+}
+h1 {
+    font-family: "Reddit Mono", monospace;
+}
+p {
+    font-family: "Reddit Mono", monospace;
+}
